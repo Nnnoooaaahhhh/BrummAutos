@@ -3,7 +3,7 @@ public class Test {
 
 	public static void main (String []args) {
 		BMW a = new BMW(100, 10000000);
-		Dacia b = new Dacia(5, 0);
+		Dacia b = new Dacia(5);
 		a.fahren();
 		a.flexLevel();
 		
