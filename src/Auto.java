@@ -5,8 +5,6 @@ public abstract class Auto {
 	
 	public Auto (int geschwindigkeit) {
 		this.geschwindigkeit=geschwindigkeit;
-		
-		
 	}	
 
 	abstract void fahren();

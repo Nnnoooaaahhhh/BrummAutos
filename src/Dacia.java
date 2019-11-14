@@ -7,7 +7,6 @@ public class Dacia extends Auto{
 		super(geschwindigkeit);
 		this.flexLevel=flexLevel;
 
-		
 	}
 	
 	void fahren() {

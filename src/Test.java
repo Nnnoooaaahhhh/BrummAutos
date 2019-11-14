@@ -6,6 +6,7 @@ public class Test {
 		Dacia b = new Dacia(5, 0);
 		a.fahren();
 		a.flexLevel();
+		
 		b.fahren();
 		b.flexLevel();
 	}
